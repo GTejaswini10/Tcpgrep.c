@@ -3,6 +3,7 @@ We have developed tcpgrep command line tool which takes pcap file as input and p
 This command line tool helps the user to get the required information on the TCP packets by using the following options.
 The command is : tcpgrep
 and the options are :
+
     o For displaying help option , tcpgrep pcapfilename
 
     o To display the total number of tcp packets, tcpgrep pcapfile name -t
